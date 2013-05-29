@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ethan's Blog]]></title>
+  <link href="http://ethanCreeper.github.io/atom.xml" rel="self"/>
+  <link href="http://ethanCreeper.github.io/"/>
+  <updated>2013-05-29T19:29:32-04:00</updated>
+  <id>http://ethanCreeper.github.io/</id>
+  <author>
+    <name><![CDATA[Ethan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About]]></title>
+    <link href="http://ethanCreeper.github.io/blog/2013/05/29/about/"/>
+    <updated>2013-05-29T19:14:00-04:00</updated>
+    <id>http://ethanCreeper.github.io/blog/2013/05/29/about</id>
+    <content type="html"><![CDATA[<p>My YouTube channel name is cow killer  plays MC.
+I will play MC for you viewers.
+So look for more videos.</p>
+]]></content>
+  </entry>
+  
+</feed>
